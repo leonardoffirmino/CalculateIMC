@@ -1,16 +1,16 @@
-# Calculate IMC
+# Calculate IMC 
 
-<div align="center">
-  <img src="./github/logo.png" alt="logo calculate imc" />
+<div  align="center">
+  <img  src="./github/logo.png" alt="logo calculate imc" />
 </div>
 
 ## Sobre
 
 <hr/>
 
-<h4 align="center">Projeto ainda em construção .... </h4>
+<h4 align="center">Projeto ainda em construção .... 🚧 </h4>
 
-<p>Projeto desenvolvido para testar fluxo de rotas no node e realizar um cálculo simples de IMC.</p>
+<p align="center">Projeto desenvolvido para testar fluxo de rotas no node e realizar um cálculo simples de IMC.</p>
 
 ## Features
 
